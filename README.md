@@ -15,6 +15,10 @@ Always happy to connect, collaborate, and geek out about data — feel free to [
 ![Predictive Maintenance](https://img.shields.io/badge/Predictive_Maintenance-00695C?style=flat)
 ![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-8E24AA?style=flat)
 ![Time Series](https://img.shields.io/badge/Time_Series-3F51B5?style=flat)
+ 
+![Generative AI](https://img.shields.io/badge/Generative_AI-9C27B0?style=flat)
+![LLMs](https://img.shields.io/badge/LLMs-6A1B9A?style=flat)
+![RAG](https://img.shields.io/badge/RAG-512DA8?style=flat)
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
